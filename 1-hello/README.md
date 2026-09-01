@@ -7,13 +7,13 @@
 2. Build using CMake from project root.
 
 ```shell
-cmake -S hello -B build/hello
-cmake --build build/hello
+cmake -S 1-hello -B build/1-hello
+cmake --build build/1-hello
 ```
 
-3. Change to the `hello/` directory and run the executable:
+3. Change to the `1-hello/` directory and run the executable:
 
 ```shell
-cd hello
+cd 1-hello
 ./Tutorial-HelloWorld
 ```
