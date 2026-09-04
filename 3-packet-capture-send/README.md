@@ -15,3 +15,9 @@ cmake --build build/3-packet-capture-send
 cd 3-packet-capture-send
 ./Tutorial-LiveTraffic
 ```
+
+You might have to run with elevated permission.
+
+```shell
+sudo ./Tutorial-LiveTraffic
+```
